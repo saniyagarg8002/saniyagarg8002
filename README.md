@@ -46,16 +46,15 @@ Exploring AI agents and workflows using Microsoft Foundry.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=saniyagarg8002&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyagarg8002&layout=compact&theme=tokyonight" />
 
 </div>
 
 ## 🤝 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/
-saniya-garg-324b23397
+- LinkedIn: www.linkedin.com/in/saniya-garg-324b23397
 
 - GitHub: https://github.com/saniyagarg8002
 
